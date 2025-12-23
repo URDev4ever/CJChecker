@@ -1,5 +1,5 @@
 <h1 ALIGN="center">CJChecker</h1>
-
+<p align="center"> 🇺🇸 <a href="README.md"><b>English</b></a> | 🇪🇸 <a href="README_ES.md">Español</a> </p>
 <p align="center">
  <img width="423" height="87" alt="image" src="https://github.com/user-attachments/assets/5b2b398f-1bc2-4b25-9212-4e7e2c4708c0" />
 </p>
