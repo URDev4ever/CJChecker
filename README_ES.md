@@ -173,6 +173,16 @@ CJChecker evita intencionalmente el análisis profundo de CSP para reducir falso
 
 ---
 
+## Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la precisión en la detección de headers, el manejo de casos límite o la confiabilidad del parsing de respuestas
+* Mejoran el rendimiento en escaneos masivos, la estabilidad de la concurrencia o la claridad del output sin aumentar la complejidad innecesaria
+* Mantienen la filosofía ligera y basada en headers (sin intentos de explotación, sin PoCs con iframes, sin comportamiento intrusivo)
+
+---
+
 ## Descargo de responsabilidad
 
 Esta herramienta está destinada únicamente a fines educativos y de seguridad defensiva.
