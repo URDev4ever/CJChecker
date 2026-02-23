@@ -166,6 +166,16 @@ CJChecker intentionally avoids deep CSP parsing to reduce false positives.
 
 ---
 
+## Contributing
+
+Pull requests are welcome if they:
+
+* Improve header detection accuracy, edge-case handling, or response parsing reliability
+* Enhance bulk scanning performance, concurrency stability, or output clarity without increasing complexity
+* Maintain the lightweight, header-based philosophy (no exploit attempts, no iframe PoCs, no intrusive behavior)
+
+---
+
 ## Disclaimer
 
 This tool is intended for educational and defensive security purposes only.
